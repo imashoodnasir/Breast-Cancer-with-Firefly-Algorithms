@@ -30,11 +30,6 @@ Feel free to fork, modify, and submit a pull request.
 
 ---
 
-## 📩 Contact
-For any queries, reach out at: **your.email@example.com**
-
----
-
 ## 📜 License
 This project is licensed under the MIT License.
 
